@@ -1,0 +1,9 @@
+E001,Televisor LG  43',2000000.0,5
+E002,Televisor Samsung 50",2100000.0,3
+E003,Lavadora Haceb 18kg,1800000.0,4
+E004,Nevera Whirlpool 400L,2500000.0,2
+E005,Licuadora Oster 600W,230000.0,8
+E006,Microondas LG 1200W,480000.0,6
+E007,Aspiradora Samsung 1600W,520000.0,3
+E008,Plancha Oster Vapor,160000.0,10
+E009,Soundbar Sony 2.1,780000.0,4

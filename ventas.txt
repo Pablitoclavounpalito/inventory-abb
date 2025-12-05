@@ -1,0 +1,80 @@
+Cliente: Juan Pérez | Tel: 3105551234 | DNI: 10101010
+--- Detalle de compra ---
+Televisor LG 43" x1 - $1500000.0
+Licuadora Oster 600W x2 - $460000.0
+TOTAL: $1960000.0
+Fecha: 2025-12-04T10:15:32.104920
+----------------------------------------
+
+Cliente: María Gómez | Tel: 3002224455 | DNI: 20202020
+--- Detalle de compra ---
+Microondas LG 1200W x1 - $480000.0
+Cafetera Dolce Gusto x1 - $350000.0
+TOTAL: $830000.0
+Fecha: 2025-12-04T11:22:44.503211
+----------------------------------------
+
+Cliente: Pedro Ramírez | Tel: 3149987744 | DNI: 30303030
+--- Detalle de compra ---
+Nevera Whirlpool 400L x1 - $2500000.0
+Plancha Oster Vapor x3 - $480000.0
+TOTAL: $2980000.0
+Fecha: 2025-12-04T12:02:19.210459
+----------------------------------------
+
+Cliente: Laura Torres | Tel: 3018892233 | DNI: 40404040
+--- Detalle de compra ---
+Soundbar Sony 2.1 x1 - $780000.0
+Televisor Samsung 50" x1 - $2100000.0
+TOTAL: $2880000.0
+Fecha: 2025-12-04T13:45:12.889441
+----------------------------------------
+
+Cliente: Andrés Rincón | Tel: 3125557771 | DNI: 50505050
+--- Detalle de compra ---
+Aspiradora Samsung 1600W x2 - $1040000.0
+Cafetera Dolce Gusto x1 - $350000.0
+TOTAL: $1390000.0
+Fecha: 2025-12-04T14:17:55.330112
+----------------------------------------
+
+Cliente: Catalina López | Tel: 3189981122 | DNI: 60606060
+--- Detalle de compra ---
+Licuadora Oster 600W x1 - $230000.0
+Plancha Oster Vapor x2 - $320000.0
+Microondas LG 1200W x1 - $480000.0
+TOTAL: $1030000.0
+Fecha: 2025-12-04T15:33:07.120999
+----------------------------------------
+
+Cliente: Mario Sánchez | Tel: 3012234455 | DNI: 70707070
+--- Detalle de compra ---
+Televisor Samsung 50" x1 - $2100000.0
+TOTAL: $2100000.0
+Fecha: 2025-12-04T16:10:45.889210
+----------------------------------------
+
+Cliente: Alejandra Ruiz | Tel: 3154448899 | DNI: 80808080
+--- Detalle de compra ---
+Aspiradora Samsung 1600W x1 - $520000.0
+Soundbar Sony 2.1 x1 - $780000.0
+TOTAL: $1300000.0
+Fecha: 2025-12-04T17:22:14.440321
+----------------------------------------
+
+Cliente: Diego Beltrán | Tel: 3001198877 | DNI: 90909090
+--- Detalle de compra ---
+Televisor LG 43" x2 - $3000000.0
+Cafetera Dolce Gusto x1 - $350000.0
+TOTAL: $3350000.0
+Fecha: 2025-12-04T18:07:55.998702
+----------------------------------------
+
+Cliente: Valentina Mora | Tel: 3197775522 | DNI: 11121314
+--- Detalle de compra ---
+Nevera Whirlpool 400L x1 - $2500000.0
+Microondas LG 1200W x1 - $480000.0
+Plancha Oster Vapor x1 - $160000.0
+TOTAL: $3140000.0
+Fecha: 2025-12-04T19:55:41.700123
+----------------------------------------
