@@ -9,7 +9,7 @@ class Ventas {
         cargarHistorial();
     }
 
-    // 🔥 CARGA VENTAS DESDE ventas.txt AL INICIAR
+    
     private void cargarHistorial() {
         try (BufferedReader br = new BufferedReader(new FileReader("ventas.txt"))) {
             String linea;
@@ -30,7 +30,7 @@ class Ventas {
         }
     }
 
-    // 🔥 REGISTRA UNA VENTA NUEVA
+    
     public void venderProductos(ArbolProductos arbol, BufferedReader entrada) throws IOException {
 
         System.out.print("Nombre del cliente: ");
@@ -93,7 +93,7 @@ class Ventas {
         }
     }
 
-    // 🔥 MOSTRAR HISTORIAL
+    
     public void mostrarHistorial() {
         if (historial.isEmpty()) {
             System.out.println("No hay ventas registradas.");
