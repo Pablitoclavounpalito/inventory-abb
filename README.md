@@ -13,8 +13,6 @@ Funciones principales:
 - Mantener historial de ventas.  
 - Guardar y cargar información desde archivos de texto (`productos.txt` y `ventas.txt`).  
 
-El uso del ABB garantiza búsquedas rápidas, orden automático y manejo eficiente de los datos.
-
 ---
 
 ## 2. Requerimientos funcionales
