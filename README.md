@@ -1,11 +1,11 @@
-# Sistema de Inventario y Ventas con ABB
+# Sistema de Inventario y Ventas con Arboles Binarios 
 
 Andrés Felipe Rincón Naranjo 
 192383
 
 ## 1. Descripción del problema
 
-El sistema tiene como objetivo administrar el inventario y las ventas de una tienda de electrodomésticos utilizando un **Árbol Binario de Búsqueda (ABB)**.  
+El sistema tiene como objetivo administrar el inventario y las ventas de una tienda de electrodomésticos utilizando un **Árbol Binario de Búsqueda**.  
 
 Funciones principales:  
 - Registrar, consultar, modificar y eliminar productos.  
